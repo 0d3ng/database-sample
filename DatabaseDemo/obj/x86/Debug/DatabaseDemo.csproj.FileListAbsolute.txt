@@ -1,0 +1,9 @@
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/obj/x86/Debug/DatabaseDemo.csprojResolveAssemblyReference.cache
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/obj/x86/Debug/DatabaseDemo.csproj.CoreCompileInputs.cache
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/bin/Debug/DatabaseDemo.exe
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/bin/Debug/DatabaseDemo.pdb
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/bin/Debug/MySql.Data.dll
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/bin/Debug/Google.Protobuf.dll
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/bin/Debug/MySql.Data.xml
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/obj/x86/Debug/DatabaseDemo.exe
+/Users/nopri/Documents/Tridarma/Pengajaran/Mata Kuliah/Pemrograman Terstruktur/Code/DatabaseDemo/DatabaseDemo/obj/x86/Debug/DatabaseDemo.pdb
